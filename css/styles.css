@@ -82,18 +82,19 @@ p {
   margin: 100px 0;
 }
 
-.bottom-container{
+.bottom-container {
   background-color: #66BFBF;
   padding: 50px 0 20px;
 }
 
-.footer-link{
+.footer-link {
   color: #11999E;
 }
 
-.skill-row{
-  margin: 100px auto 100px auto;
-  width: 50%;
+.skill-row {
+  margin: 100px auto;
+  width: 100%;
+  max-width: 800px;
   text-align: left;
 }
 
